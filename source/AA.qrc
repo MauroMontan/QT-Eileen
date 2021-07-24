@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="imagenes">
+    <file>lapiz (1).png</file>
+    <file>user-interface.png</file>
+    <file>tabla.png</file>
+    <file>recargar.png</file>
+
+    <file>quimica.png</file>
+    <file>confD.png</file>
+    <file>copiar.png</file>
+    <file>dentro.png</file>
+    <file>fuera.png</file>
+    <file>cerrar.png</file>
+  </qresource>
+</RCC>
